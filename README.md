@@ -19,7 +19,7 @@ To set up and run the shell on your system:
 
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/yourusername/custom-linux-shell.git  
+   git clone https://github.com/rohan-vachhani/custom-linux-shell.git  
    cd custom-linux-shell  
 2. **Compile the shell:**
     ```bash
